@@ -36,7 +36,7 @@ public class UtilityClass extends BaseClass {
 		System.out.println("actualNameted= " + actualText);
 		String expectedtext = text;
 		if (actualText.equals(expectedtext)) {
-			System.out.println("Name Is Showing Correct");
+			System.out.println("Name Is Showing Correct is not show");
 		}else {
 			System.out.println("Name Is Showing InCorrect");
 		}
